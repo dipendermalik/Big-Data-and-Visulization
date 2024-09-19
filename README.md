@@ -1,23 +1,33 @@
 # Big-Data-and-Visulization
-File Basic has useful basic small codes of Python which Includes :- 
-0. Python as a programming language
- 0.0 Data types
- 0.1 If conditions
- 0.2 For loop
 
-1. Python as a calculator and visualiser
+## Basics1.ipynb
 
-2. Python as excel
+**Basics1.ipynb** contains a collection of useful, basic Python code snippets that cover fundamental programming concepts and practical applications. The file is designed as an introductory guide to Python, featuring small, easy-to-understand code examples across various topics.
 
-3. An example with twitter data
+### Contents
 
-4. Basic data manipulation
- 4.0 Lists in depth
- 4.1 Pandas in depth
+0. **Introduction to Python Programming**
+   - 0.0: Data Types
+   - 0.1: If Conditions
+   - 0.2: For Loops
 
-5. User defined functions
+1. **Python as a Calculator and Visualizer**
+   - Learn how to use Python for calculations and data visualization.
 
-6. Chunking and MapReduce
- 6.0 Chunking
- 6.1 MapReduce
- 6.2 Parallel computing
+2. **Python as Excel**
+   - Explore how Python can be used for spreadsheet-like data manipulation and analysis.
+
+3. **Working with Twitter Data**
+   - An example demonstrating data handling and analysis with Twitter data.
+
+4. **Basic Data Manipulation**
+   - 4.0: Lists in Depth
+   - 4.1: Pandas in Depth
+
+5. **User-Defined Functions**
+   - Create custom functions to streamline your code and enhance reusability.
+
+6. **Chunking and MapReduce**
+   - 6.0: Chunking Data for Efficient Processing
+   - 6.1: MapReduce for Distributed Computing
+   - 6.2: Parallel Computing Techniques
