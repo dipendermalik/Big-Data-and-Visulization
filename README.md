@@ -1,4 +1,4 @@
-# Big-Data-and-Visulization
+# Basics of Python
 
 ## Basics1.ipynb
 
